@@ -1,23 +1,98 @@
-<h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">Student of Teleinformatics (ICT) at AGH</h3>
 
-# 💫 About Me:
-👨‍🎓 ICT student at AGH UST 🟩⬛️🟥 <br> 🏍️ Mobile App Team Member at E-Moto AGH<br> 👨‍💻 Tech enthusiast with a strong interest in self-improvement <br>😁 In my free time, I enjoy playing the ukulele, watching animated series, spending time with friends, and having fun.
+<div align="center">
 
+<h1>Hi, I'm Gabriel 👋</h1>
 
-# 🌐 Socials:
-<p align="left">
-<a href="https://www.linkedin.com/in/gabrielrosol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabrielrosol" height="40" width="40" /></a>
- <a href="discordapp.com/users/358997561949945857" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discordapp.com/users/358997561949945857" height="40" width="40" /></a>
+<h3>Baseband Software Tester | M.Sc. in Information and Communication Technologies</h3>
+
+<p>
+  5G NR · Cloud RAN · Software Engineering · Computer Networks
 </p>
 
-# 👨‍💻 🛠️ Languages and tools:
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://www.linkedin.com/in/gabrielrosol">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://discord.com/users/358997561949945857">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MrReiji&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MrReiji&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrReiji&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
+
 ---
 
-[![](https://visitcount.itsvg.in/api?id=MrReiji&icon=0&color=0)](https://visitcount.itsvg.in)
+<h2 align="center">👨‍💻 About Me</h2>
+
+I'm an **ICT Engineer** and graduate of **AGH University of Krakow**, with a professional background in 5G telecommunications systems.
+
+I'm particularly interested in understanding how complex systems work, how their components interact, and how to identify the root causes of technical problems.
+
+Beyond telecommunications, I enjoy exploring **computer networks, software engineering, and network performance optimization** through practical projects.
+
+---
+
+<h2 align="center">💼 Professional Experience</h2>
+
+### Ericsson | Baseband Software Tester
+
+Working on **5G Baseband and Cloud RAN** software, focusing on feature verification, test result analysis, and troubleshooting in L1/L2 environments.
+
+Collaborating with international engineering teams and contributing to improvements in testing workflows, including the use of **AI agents** for automation and analysis.
+
+### Nokia | 5G L1 Integration & Verification
+
+Worked on the integration and verification of **5G NR physical layer (L1)** functionality in vRAN environments across FDD/TDD configurations.
+
+Responsibilities included regression and exploratory testing, RF measurement analysis, hardware/software integration, and maintaining laboratory infrastructure.
+
+---
+
+<h2 align="center">🎓 Engineering Highlights</h2>
+
+### Master's Thesis - SDN Routing & QoS
+
+Developed and evaluated an **SDN routing algorithm** considering network conditions and traffic requirements to support Quality of Service (QoS).
+
+### Engineering Thesis - Xenium Mobile App
+
+Designed and developed a **Flutter application** for Xenium, a Polish demoscene event, providing schedules, competition results, and essential event information.
+
+### E-Moto AGH - Electric Motorcycle
+
+Contributed to an **onboard motorcycle dashboard** and its integration with vehicle systems as part of an interdisciplinary engineering team.
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+| Project | Description | Tech |
+|:--------|:------------|:----:|
+| [Wi-Fi 6 QoS / EDCA Study](https://github.com/MrReiji/QoS-Impact-of-EDCA-Configuration-in-Wi-Fi-6-IEEE-802.11ax-) | Analysis of EDCA configuration effects on latency, jitter, and packet loss. | C++, Python, ns-3 |
+| [Chatify](https://github.com/MrReiji/Chatify---Simple-Chat-App) | Real-time mobile messaging application. | Flutter, Firebase |
+| [AWS IAM Role Policy Validator](https://github.com/MrReiji/AWS-IAM-Role-Policy-Validator) | JSON policy validation against AWS IAM requirements. | Java, JSON |
+| [Budget Master](https://github.com/MrReiji/Budget-Master) | Personal expense management application. | Flutter, Dart |
+
+---
+
+<h2 align="center">🛠️ Technical Skills</h2>
+
+<div align="center">
+
+<strong>Telecommunications & RAN</strong>
+
+5G NR · L1/L2 · FDD/TDD · Baseband · vRAN · Cloud RAN
+
+<strong>Testing & Integration</strong>
+
+Software Verification · Regression Testing · RF Measurements · Troubleshooting
+
+<strong>Computer Networks</strong>
+
+SDN · Routing · QoS · Network Protocols · Network Simulation
+
+<strong>Programming</strong>
+
+C++ · Python · Java · Flutter
+
+</div>
